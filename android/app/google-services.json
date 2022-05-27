@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804753232056",
+    "project_id": "veg-cart-flutter",
+    "storage_bucket": "veg-cart-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804753232056:android:a153dac1fd9cb6abbe644d",
+        "android_client_info": {
+          "package_name": "com.example.veg_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804753232056-m33858rm7c34apvs166vh1svs0av01ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXvD3OTTxvkhJvoz0VRqTEflkY7f_978"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804753232056-m33858rm7c34apvs166vh1svs0av01ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
